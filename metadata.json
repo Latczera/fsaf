@@ -1,0 +1,5 @@
+{
+  "name": "Espaço Caíque Kenson",
+  "description": "Estúdio de beleza e estética premium em Angatuba, SP. Especialista em maquiagem, sobrancelhas, cílios e estética avançada.",
+  "requestFramePermissions": ["geolocation"]
+}
