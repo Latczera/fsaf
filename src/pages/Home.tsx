@@ -2,6 +2,7 @@ import React from 'react';
 import { motion } from 'motion/react';
 import { ArrowRight, Sparkles, Award, Users, CheckCircle2 } from 'lucide-react';
 import { Link } from 'react-router-dom';
+/// <reference types="vite/client" />
 
 export default function Home() {
   return (
